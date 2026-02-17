@@ -1,6 +1,6 @@
 GERMAN VERSION BELOW!
 
-Privacy Policy for the App "Mosaic"
+## Privacy Policy for the App "Mosaic"
 Effective Date: February 17, 2026
 
 1. Controller
