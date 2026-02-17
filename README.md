@@ -1,3 +1,45 @@
+GERMAN VERSION BELOW!
+
+Privacy Policy for the App "Mosaic"
+Effective Date: February 17, 2026
+
+1. Controller
+The controller responsible for data processing in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws is:
+
+RobSoftMedia - Robert Koenig
+Johann-Krieger-Str. 17
+90469 Nuremberg
+Germany
+
+Email: mailto.koenig.robert@gmail.com
+
+2. Principles of Data Processing
+The protection of personal data is a top priority. The use of the application "Mosaic" is generally possible without providing any personal data.
+The controller does not collect, store, or process any personal data on own or third-party hosted servers. All game-related data (e.g., game progress, coins, local settings) is stored exclusively locally on the user's end device.
+
+3. Permissions and Technical Functions
+To ensure technical functionality and to verify software licenses, the application accesses necessary system interfaces:
+
+Network Access: This is used exclusively for communication with platform services (Google Play Services / Steamworks SDK). Its purpose is to verify the lawful acquisition of the software and to verify and provide downloadable content (DLCs).
+
+Local Storage: The application writes data locally to the end device to save the user's game progress.
+
+4. Data Processing by Platform Operators (Third-Party Providers)
+The application is distributed via external platforms. When downloading, installing, or using platform-specific functions (e.g., achievements, platform cloud saving, payment processing), the respective operators collect personal data. The controller has no influence over these processes.
+
+Google Play Store: Operated by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.
+Privacy Policy: https://policies.google.com/privacy
+
+Steam: Operated by Valve Corporation, 10400 NE 4th St., Bellevue, WA 98004, USA.
+Privacy Policy: https://store.steampowered.com/privacy_agreement/
+
+5. Rights of the Users
+Since the controller (RobSoftMedia) does not store any personal data of the users, no rights regarding access, rectification, or erasure can be asserted against the controller. Insofar as data is processed by the aforementioned platform operators, the corresponding rights (access, rectification, erasure, objection) must be asserted directly against those entities.
+
+6. Contact
+Users may contact the controller at any time via the email address provided above regarding questions about this privacy policy or the technical background of the application.
+
+
 Datenschutzerklärung für die App "Mosaic"
 Stand: 17.02.2026
 
