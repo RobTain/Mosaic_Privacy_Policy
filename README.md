@@ -1,5 +1,5 @@
-English Version: [Link Text](#Privacy Policy for the App "Mosaic").
-German Version: 
+[English Version](#Privacy Policy for the App "Mosaic").
+[German Version](#Datenschutzerklärung für die App "Mosaic").
 
 # Privacy Policy for the App "Mosaic"
 **Effective Date: February 17, 2026**
