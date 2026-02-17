@@ -1,6 +1,4 @@
-### English Version
 [English Version](#English_Version)
-### German Version
 [German Version](#German_Version)
 
 <a name="English_Version"></a>
