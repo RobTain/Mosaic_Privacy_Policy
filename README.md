@@ -1,6 +1,7 @@
-[English Version](#Privacy Policy for the App "Mosaic").
-[German Version](#Datenschutzerklärung für die App "Mosaic").
-[A link to that custom anchor](#German_Version)
+[English Version](#English_Version)
+[German Version](#German_Version)
+
+<a name="English_Version"></a>
 # Privacy Policy for the App "Mosaic"
 **Effective Date: February 17, 2026**
 
