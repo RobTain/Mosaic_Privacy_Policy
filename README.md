@@ -1,6 +1,6 @@
 [English Version](#Privacy Policy for the App "Mosaic").
 [German Version](#Datenschutzerklärung für die App "Mosaic").
-
+[A link to that custom anchor](#German_Version)
 # Privacy Policy for the App "Mosaic"
 **Effective Date: February 17, 2026**
 
@@ -40,7 +40,7 @@ Since the controller (RobSoftMedia) does not store any personal data of the user
 ## 6. Contact
 Users may contact the controller at any time via the email address provided above regarding questions about this privacy policy or the technical background of the application.
 
-
+<a name="German_Version"></a>
 # Datenschutzerklärung für die App "Mosaic"
 **Stand: 17.02.2026**
 
