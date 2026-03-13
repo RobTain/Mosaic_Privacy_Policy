@@ -17,7 +17,7 @@ Email: mailto.koenig.robert@gmail.com
 
 ## 2. Principles of Data Processing
 The protection of personal data is a top priority. The use of the application "Mosaic" is generally possible without providing any personal data.
-The controller does not collect, store, or process any personal data on own or third-party hosted servers. All game-related data (e.g., game progress, coins, local settings) is stored exclusively locally on the user's end device.
+The controller does not collect, store, or process any personal data on its own or on third-party hosted servers. All game-related data (e.g., game progress, coins, local settings) is stored exclusively locally on the user's end device.
 
 ## 3. Permissions and Technical Functions
 To ensure technical functionality and to verify software licenses, the application accesses necessary system interfaces:
@@ -35,8 +35,12 @@ Privacy Policy: https://policies.google.com/privacy
 Steam: Operated by Valve Corporation, 10400 NE 4th St., Bellevue, WA 98004, USA.
 Privacy Policy: https://store.steampowered.com/privacy_agreement/
 
+Apple App Store: Operated by Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA.
+Privacy Policy: https://www.apple.com/legal/privacy/
+
 ## 5. Rights of the Users
-Since the controller (RobSoftMedia) does not store any personal data of the users, no rights regarding access, rectification, or erasure can be asserted against the controller. Insofar as data is processed by the aforementioned platform operators, the corresponding rights (access, rectification, erasure, objection) must be asserted directly against those entities.
+Since the controller (RobSoftMedia) does not process or store personal data within the application, there is generally no personal data available for access, rectification, or erasure by the controller.
+If personal data is processed by the platform operators mentioned above, users must exercise their data protection rights directly with those providers.
 
 ## 6. Contact
 Users may contact the controller at any time via the email address provided above regarding questions about this privacy policy or the technical background of the application.
@@ -74,8 +78,12 @@ Datenschutzerklärung: https://policies.google.com/privacy
 Steam: Betrieben durch Valve Corporation, 10400 NE 4th St., Bellevue, WA 98004, USA.
 Datenschutzerklärung: https://store.steampowered.com/privacy_agreement/
 
+Apple App Store: Betrieben durch Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA.
+Datenschutzerklärung: https://www.apple.com/legal/privacy/
+
 ## 5. Rechte der Nutzer
-Da der Verantwortliche keine personenbezogenen Daten der Nutzer speichert, können diesbezüglich keine Auskunfts- oder Löschungsrechte geltend gemacht werden. Sofern Daten durch die oben genannten Plattformbetreiber verarbeitet werden, müssen die entsprechenden Rechte (Auskunft, Berichtigung, Löschung, Widerspruch) direkt gegenüber diesen Stellen geltend gemacht werden.
+Da der Verantwortliche (RobSoftMedia) innerhalb der Applikation keine personenbezogenen Daten verarbeitet oder speichert, liegen in der Regel keine personenbezogenen Daten vor, zu denen Auskunfts-, Berichtigungs- oder Löschungsrechte gegenüber dem Verantwortlichen geltend gemacht werden können.
+Sofern personenbezogene Daten durch die oben genannten Plattformbetreiber verarbeitet werden, müssen entsprechende Rechte direkt gegenüber diesen Anbietern geltend gemacht werden.
 
 ## 6. Kontakt
 Bei Fragen zu dieser Datenschutzerklärung können sich Nutzer jederzeit unter der oben genannten E-Mail-Adresse an den Verantwortlichen wenden.
